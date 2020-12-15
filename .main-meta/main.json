@@ -35,9 +35,12 @@
 		"PWM",
 		"Timer"
 	],
+	"subcategories": [
+		"Power"
+	],	
 	"keywords": [
 		"dsc",
-		"dspic",
+		"dsPIC",
 		"power",
 		"power-conversion",
 		"power-supply",
