@@ -11,7 +11,7 @@
 ## Summary
 Learning how to use the High Resolution PWM Module of dsPIC33C MP devices 
 
-Lab 1: Push-Pull Waveform Generation
+Lab 3: Push-Pull Waveform Generation
 Code example for dsPIC33CK and dsPIC33CH devices introducing the basic configuration of the high-resolution PWM module using one PWM generator channel generating a single, Push-Pull PWM waveform
 
 - - -
