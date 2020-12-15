@@ -54,12 +54,12 @@ Alternative Controller Plug-In Module:
 ## Operation
 After the device has been programmed and the MCU starts up, PWM generator #3 is generating a 100 kHz Push-Pull waveform at the PWM3H/PWM3L outputs. 
 
-<br><center><img src="images/pwm200kHz.png" width="400"></center>
-*100 kHz Switching Frequency Output*
+<br><center><img src="images/pwm-push-pull.jpg" width="500"></center>
+*100 kHz Switching Frequency Output of PWM Push Pull Mode Operation*
 
-By pressing the on-board push button *USER* on the Digital Power Development Board, the switching frequency is toggled between the initial 100 kHz and 500 KHz.
-<br><center><img src="images/pwm1MHz.png" width="400"></center>
-*500 KHz Switching Frequency Output*
+By pressing the on-board push button *USER* on the Digital Power Development Board, the PWM operating mode is toggled between the 100kHz push-pull mode and 200 khz complementary mode.
+<br><center><img src="images/pwm-complementary.jpg" width="500"></center>
+*200 KHz Switching Frequency Output of Complementary Mode Operation*
 
 
 Please refer to section *FIRMWARE QUICK-START GUIDE* below for more information on the initialization process and code structure.
