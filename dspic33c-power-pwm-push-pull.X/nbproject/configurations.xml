@@ -29,7 +29,7 @@
         <itemPath>mcc_generated_files/system.h</itemPath>
       </logicalFolder>
       <itemPath>main.h</itemPath>
-      <itemPath>sources/pwm_init.h</itemPath>
+      <itemPath>sources/pwm.h</itemPath>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
                    displayName="Linker Files"
@@ -56,7 +56,7 @@
         <itemPath>mcc_generated_files/pin_manager.c</itemPath>
       </logicalFolder>
       <itemPath>main.c</itemPath>
-      <itemPath>sources/pwm_init.c</itemPath>
+      <itemPath>sources/pwm.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
                    displayName="Important Files"

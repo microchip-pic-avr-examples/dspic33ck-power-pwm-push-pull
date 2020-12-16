@@ -39,7 +39,7 @@
 
 // include application specific header files
 #include "config/hal.h"
-#include "pwm_init.h"
+#include "pwm.h"
 
 #ifdef	__cplusplus
 extern "C" {

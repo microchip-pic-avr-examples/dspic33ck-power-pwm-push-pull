@@ -56,12 +56,12 @@
  * 
    In this code example PWM generator channel #3 is initialized 
  *   to produce a Push-Pull output signal at pins PWM3H and PWM3L.
- *   Between rising and falling edges of the output signals a dead time 
- *   is added (100ns at rising edge of PWMxH and 150ns at falling edge of
- *   PWMxH). The initial frequency after startup is set to 200 kHz. By
- *   pressing push button [USER], the frequency is stepped to 1 MHz. By 
- *   pressing [USER] again, the frequency switches back to 200 khz,
- *   The duty ratio will always remain 25% of the switching period.
+ *   The initial frequency after startup is set to 100 kHz in push-pull mode. 
+ *   By pressing push button [USER], the PWM mode of operation changes from
+ *   100 kHz push pull mode to 200 kHz complementary mode,
+ *   pressing [USER] again, the PWM mode of operation is back to 
+ *   100 kHz in push pull mode. The duty ratio will always remain 25% 
+ *   of the switching period.
  * 
  * Please note:
  *   This code example can be run on dsPIC33CK as well as on dsPIC33CH
