@@ -1,6 +1,6 @@
 ![image](images/microchip.jpg) 
 
-# dsPIC33C High-Resolution PWM Configuration III
+# dsPIC33C High-Resolution PWM Configuration: Lab 3
 **Push-Pull PWM Waveform Generation**
 
 <p><center><a target="_blank" href="https://www.microchip.com/MA330048" rel="nofollow">
